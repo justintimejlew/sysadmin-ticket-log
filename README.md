@@ -5,7 +5,7 @@
 <details>
 <summary> 1. Deploy a new CentOS 9 Virtual Machine on Vsphere </summary>
 
-    TASK: The Infrastructure Team is requesting a new CentOS 9 Virtual Machine (VM) to launch a new product for the software development team. Please use the naming convention in the requirements section below. Ensure VM details are added to the asset tiger inventory tool.
+<code style="white-space: pre-wrap;">TASK: The Infrastructure Team is requesting a new CentOS 9 Virtual Machine (VM) to launch a new product for the software development team. Please use the naming convention in the requirements section below. Ensure VM details are added to the asset tiger inventory tool.</code>
 
 **STEPS TAKEN:**
     
@@ -53,7 +53,7 @@
 <details>
 <summary> 2. Create your own resource pool on VSphere </summary>
     
-    TASK: To efficiently manage and allocate organization’s resources, we need to create resource clusters for our deployed and upcoming VMs.
+<code style="white-space: pre-wrap;">TASK: To efficiently manage and allocate organization’s resources, we need to create resource clusters for our deployed and upcoming VMs.</code>
     
 **STEPS TAKEN:**
     
